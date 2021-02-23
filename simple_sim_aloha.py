@@ -1,4 +1,4 @@
-'''super simulation of slotted aloha- just 7 lines of code'''
+'''super simple simulation of slotted aloha - just 7 lines of code!'''
 
 from numpy import random as r
 
