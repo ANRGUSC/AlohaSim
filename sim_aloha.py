@@ -50,5 +50,5 @@ def multi_sim(num_values, steps):
 
 
 if __name__ == "__main__":
-   #print(run_sim(0.9, 20))
-   multi_sim(10, 1000) 
+   #print(run_sim(0.9, 20))  #run a single simulation with fixed p, print output
+   multi_sim(10, 1000)       #run multiple simulations with different p values and print/plot output
